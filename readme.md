@@ -3,6 +3,7 @@
 - Løsningsforslagene er laget av elever fra NRG og NRG-U.
 - Filene er navngitt `Utvikler - Oppgave.py`.
 - Alle filene er helt åpne for andre å bruke men det anbefales å prøve å løse oppgavene selv
+- Du kan øve på oppgaver her: https://trening.nio.no/cms/
 
 ## Nyttige Ressurser
 
