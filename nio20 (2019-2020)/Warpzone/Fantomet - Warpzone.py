@@ -1,5 +1,5 @@
 #######################################
-# !! DENNE KODEN GIR BARE 92 POENG !! #
+# !! DENNE KODEN GIR BARE 64 POENG !! #
 #######################################
 
 def main():
