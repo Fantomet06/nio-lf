@@ -34,17 +34,12 @@ for i in range(M):
     except: 
         pass
 def maxsyk(startint, lastint, n):
-
-
     startint.sort()
     lastint.sort()
-
-
     sykenå = 1
     max_syke = 1
     i = 1
     j = 0
-
 
     while (i < n and j < n):
         if (startint[i] <= lastint[j]):
