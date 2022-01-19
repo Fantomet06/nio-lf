@@ -87,10 +87,6 @@ else:
 
     if debug:
         print(largest, smitteLogg)
-        if smitteLogg == [0, 0, 0, 1, 1, 1, 2, 3, 2, 2, 2, 1, 0, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0]:
-            print('yay')
-        else:
-            print('buuuh')
 
     else:
         print(largest)
