@@ -21,5 +21,5 @@
 - [Dijkstra’s shortest path algorithm in a grid](https://levelup.gitconnected.com/dijkstras-shortest-path-algorithm-in-a-grid-eb505eb3a290)
 
 ### Bøker/Kompendier
-- [Kompendium] (https://nio.no/ressurser/kompendium.pdf)
-- [Competetive Programmer's Handbook] (https://cses.fi/book/book.pdf)
+- [Kompendium](https://nio.no/ressurser/kompendium.pdf/)
+- [Competetive Programmer's Handbook](https://cses.fi/book/book.pdf/)
